@@ -1,7 +1,8 @@
-class anand
+public class anand
 {
 public static void main(String[] agrs)
 {
+    System.out.println("welcome");
 int flag=0,i,j,n=100,count=0;
 for(i=1;i<=n;i++)
 {
